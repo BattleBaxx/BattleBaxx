@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/BattleBaxx/BattleBaxx/master/wave.gif" width="30px">
+### Hi there <img src="https://github.com/BattleBaxx/BattleBaxx/blob/main/wave.gif" width="30px">
 My name is Susanth and I'm a student at PSG College of Technology.
 
 ## 🔧 Technologies & Tools
