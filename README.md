@@ -3,7 +3,7 @@
 <p>I'm Susanth and I'm a student at PSG College of Technology pursing M.Sc. in Software Systems. I am current exploring the fields of Internet of Things, Mobile Computing and AI.</p>
 
 ## 🅰️ Languages
- <div align='left'>
+ <div align='center'>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?ogo=c&logoColor=white"></a>
   <a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=python&logoColor=blue"></a>
@@ -14,15 +14,17 @@
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=orange"></a>
   <a href="#"><img src="https://img.shields.io/badge/R-404D59?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-000?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/></a>
 </div>
 
 ## 🔧 Technologies & Tools
-<div align = "left">
+<div align = "center">
   <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white"/></a>
   <a href='#'><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vs_code-123?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/></a>
