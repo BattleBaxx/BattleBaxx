@@ -1,16 +1,16 @@
 <h1>Hi there!! <img src="https://github.com/BattleBaxx/BattleBaxx/blob/main/wave.gif" width="30px"></h1>
 
-<p>I'm Susanth and I'm a student at PSG College of Technology pursing M.Sc. in Software Systems. I am current exploring the fields of Internet of Things, Mobile Computing and AI.</p>
+<p>I'm Ranga and a student at PSG College of Technology pursing M.Sc. in Software Systems. I am current exploring the fields of Cloud Computing, Information Retreval and Computer Vision.</p>
 
 ## 🅰️ Languages
  <div align='center'>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?ogo=c&logoColor=white"></a>
-  <a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=python&logoColor=blue"></a>
+  <a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
   <a href="#"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?ogo=javascript&logoColor=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white"/></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?ogo=c&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=orange"></a>
   <a href="#"><img src="https://img.shields.io/badge/R-404D59?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-000?style=flat"/></a>
