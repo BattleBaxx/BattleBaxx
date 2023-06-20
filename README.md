@@ -1,6 +1,6 @@
 <h1>Hi there!! <img src="https://github.com/BattleBaxx/BattleBaxx/blob/main/wave.gif" width="30px"></h1>
 
-<p>I'm Ranga and a student at PSG College of Technology pursing M.Sc. in Software Systems. I am current exploring the fields of Cloud Computing, Information Retreval and Computer Vision.</p>
+<p>I'm Ranga and a student at PSG College of Technology pursing M.Sc. in Software Systems. I am current exploring the fields of Computer Forensics, Compiler Design and Software Testing.</p>
 
 ## 🅰️ Languages
  <div align='center'>
